@@ -1,13 +1,3 @@
-#  File: htmlChecker.py
-#  Description: Assignment 6 - HTML Checker
-#  Student's Name: Kayla Mayberry
-#  Student's UT EID: km35829
-#  Course Name: CS 313E 
-#  Unique Number: 50597
-#
-#  Date Created: 10/20/15
-#  Date Last Modified: 10/21/15
-
 #create stack class
 class Stack(object):
 
